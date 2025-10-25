@@ -75,7 +75,7 @@
     "watchify": "^3.11.1"
   },
   "dependencies": {
-    "@types/lodash.frompairs": "^4.0.5",
+    "@types/lodash.frompairs": "^4.0.9",
     "angular": ">=1.5",
     "lodash.frompairs": "^4.0.1",
     "ngcomponent": "^4.1.0"
